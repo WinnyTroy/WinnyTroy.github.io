@@ -1,5 +1,7 @@
-MS- HOW BROWSERS
-WORK
+---
+layout: post
+title: How Browsers Work
+---
 
 A
 web browser is a program that retrieves documents from remote servers
