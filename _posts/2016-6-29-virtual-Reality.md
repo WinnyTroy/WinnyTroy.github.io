@@ -1,6 +1,6 @@
 VIRTUAL REALITY
 
-Benefits and Dangers of Virtual Reality   
+Short Description plus benefits and Dangers of Virtual Reality
   
   
 Although still in its, infancy, virtual reality will have a substantial effect
@@ -113,4 +113,4 @@ spending more than twenty years inside virtual reality" (Biocca
 14). If we begin to lose our hold on distinguishing between fantasy
 and reality, our entire world will become uncertain. While virtual
 reality is a colossal accomplishment in the science world, there must
-be some limitations on its incorporation into our society. 
+be some limitations on its incorporation into our society.
