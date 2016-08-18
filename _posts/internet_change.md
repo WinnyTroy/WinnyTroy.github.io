@@ -1,4 +1,4 @@
-## WHAT INTERNET DID TO THE WORLD, BLOCKCHAIN WILL DO TO THE INTERNET!
+# WHAT INTERNET DID TO THE WORLD, BLOCKCHAIN WILL DO TO THE INTERNET!
 
  Traditionally, (around the year 2000, some countries didnt even have a sign of intenet connection anywhere), the speed of the same internet, to be frank was quite slow was shittily unreliable (mind my language).
  Social networks didnt quite exist and people had to share data between them, coz to be honest, the internet(though developed to easen communication and data sharing), at the time
@@ -9,18 +9,18 @@ I think this is what gave birth to multiple chat systems in our current system a
  Mind you, what blew my mind was this use of the IRC and the MIRC(that people allegedly preferred) was in the late 1980z. (LESS THAN 30 YEARS AGO!!!!)
  
  Breaking down the internet, I think It came to be around the early 1960z. However,I would say it peaked around the 1980z.  1984(I think would be the year that peaked my interest.)
-        # Now, what happened in 1984; Apple, which btw, wasnt that huge of a company back then introduced 'Macintosh'.
+        ### Now, what happened in 1984; Apple, which btw, wasnt that huge of a company back then introduced 'Macintosh'.
         It was the user-friendly interface swells the ranks of new computer users.
 The dominating company in technology at the time was IBM. IBM at the time were working on fabrication of experimental one-million-bit memory chips.
 Now with the introduction of the 'Macintosh' Apple's Personal Computer(which was the greatly adored by many users at the time), IBM was derailed from their main core task and into a whole new world of computing.
 
-# To break down the evolution of the internet could be broken down to two main waves.  
-1.The first wave of the digital revolution was all about technology: the kit, the devices and the IT infrastructure. 
+### To break down the evolution of the internet could be broken down to two main waves.  
+1.  The first wave of the digital revolution was all about technology: the kit, the devices and the IT infrastructure. 
 And with that, came the birth of multiple products that ranged from Drivers, Printers, Input Drivers, Displays and  Networking devices. 
 These products have certainly come to change almost everything that we thought we knew, or could do.
 They said the world was flat....but we proved them wrong with the birth of the internet....right?
   
-  2.Now we’re some way into the second wave, the people and organisational dimension is taking centre stage.
+  2. Now we’re some way into the second wave, the people and organisational dimension is taking centre stage.
 There are multiple of areas that are said to take the centre stage for the next wave. Mentioning some of them I could say, Tesla, Oculus, The Parallella Board, Google glass, The Cloud. 
 There are literally so many fields that might shape the next reality of things.
 I will be focussing on one of them. Blockchain!
@@ -42,5 +42,5 @@ You could amass of wealth in our day and age with the growth of a bitcoin accoun
 or gain profit over the transaction.Blockchain serves as the official online ledger of every Bitcoin transaction, dating back to the beginning.
 
 My journey to writing this article to completion has opened my eyes on quite some history of the internet. Which is not only interesting, but quite important for my growth as well in this industry.
-Take a moment too to go through that journey. But I do conclude and admit that Blockchain will change the Internet as a whole!
+####Take a moment too to go through that journey. But I do conclude and admit that Blockchain will change the Internet as a whole!
 
