@@ -18,9 +18,8 @@ Now with the introduction of the 'Macintosh' Apple's Personal Computer(which was
 1.  The first wave of the digital revolution was all about technology: the kit, the devices and the IT infrastructure. 
 And with that, came the birth of multiple products that ranged from Drivers, Printers, Input Drivers, Displays and  Networking devices. 
 These products have certainly come to change almost everything that we thought we knew, or could do.
-They said the world was flat....but we proved them wrong with the birth of the internet....right?
-  
-  2. Now we’re some way into the second wave, the people and organisational dimension is taking centre stage.
+They said the world was flat....but we proved them wrong with the birth of the internet....right?  
+2.  Now we’re some way into the second wave, the people and organisational dimension is taking centre stage.
 There are multiple of areas that are said to take the centre stage for the next wave. Mentioning some of them I could say, Tesla, Oculus, The Parallella Board, Google glass, The Cloud. 
 There are literally so many fields that might shape the next reality of things.
 I will be focussing on one of them. Blockchain!
